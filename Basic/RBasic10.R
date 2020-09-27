@@ -1,0 +1,1 @@
+read.csv("/Users/natalio/Desktop/COVID\ INDIVIDUAL/Population/deaths.csv")
